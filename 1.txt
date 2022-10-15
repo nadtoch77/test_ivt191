@@ -1,6 +1,6 @@
-line 1 from main branch
+line 1
 line 2 from main branch
 line 3 from main branch
 line 4 from local comp
 line 5 from remote
-line 6 from main branch
+line 6 change in test 1
